@@ -14,7 +14,7 @@
     "carrier_api"
   ],
   "requirements": [
-    "carrier-api==3.7.0"
+    "carrier-api @ https://github.com/bancroft-agents/carrier_api/archive/7418a37172e67a74857df8ce95c273109bd9d8da.tar.gz"
   ],
-  "version": "2.29.2"
+  "version": "2.30.0.dev1"
 }
